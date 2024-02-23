@@ -16,13 +16,28 @@ Siéntete libre de utilizar el lenguaje de programación que prefieras y explora
 ¡Buena suerte!
 
 ## Stack utilizado
-Lenguajes, tecnología y frameworks utilizados en el desarrollo
+![5463182_20e0_2](https://github.com/Dubox21/web-scraping-api/assets/84655244/7f910710-20e6-4b7d-a96d-41d211932149)
+![playwright-logo](https://github.com/Dubox21/web-scraping-api/assets/84655244/6571d469-349f-492f-a035-caee551066a5)
+
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
+![image](https://github.com/Dubox21/web-scraping-api/assets/84655244/b2e34c7d-8eea-44b6-bb29-91d68b799b06)
+
 
 ## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
+git clone https://github.com/Dubox21/web-scraping
+
+Para inicializar
+
+cd "web-scraping-api"
+
+node app.cjs
+
+Agregar la url en el navegador
+
+http://localhost:3000/scrape?url=URL_DE_LA_PAGINA
+
+Ejemplo: http://localhost:3001/scrape?url=https://holajuniors.com/challenges/crea-una-api-para-web-scraping
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
