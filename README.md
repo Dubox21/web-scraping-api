@@ -35,9 +35,8 @@ node app.cjs
 
 Agregar la url en el navegador
 
-http://localhost:3000/scrape?url=URL_DE_LA_PAGINA
+http://localhost:3001/scrape?url=https://holajuniors.com/challenges/crea-una-api-para-web-scraping)
 
-Ejemplo: http://localhost:3001/scrape?url=https://holajuniors.com/challenges/crea-una-api-para-web-scraping
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
